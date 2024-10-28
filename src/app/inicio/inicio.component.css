@@ -51,8 +51,8 @@ body {
     background-color: darkred;
   }
 
- button{
-  background-color: red;
+ .botao {
+    background-color: red;
     margin-top: 109px;
     color: white;
     border: none;
@@ -62,6 +62,6 @@ body {
     border-radius: 5px;
   }
   
-  .button:hover {
+  .botao:hover {
     background-color: darkred;
   }
